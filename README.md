@@ -2,7 +2,7 @@
 - 👀 I’m interested in Space,Tech and Sci-fi and Rom-com novels and 100% interested in programming 
 - 🌱 I’m currently learning ... My first programming language JS (started june 2022)
 - 💞️ I’m looking to collaborate on ... Wherever I can use Web Dev Skills
-- 📫 How to reach me ... See Below
+- 📫 How to reach me ... 👇🏼
 - linkedin: www.linkedin.com/in/syed-masum-reza ;
 
 <!---
