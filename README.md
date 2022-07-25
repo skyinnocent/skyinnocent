@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @skyinnocent
+- 👋 Hi, I’m  Syed Masum Reza github id @skyinnocent
 - 👀 I’m interested in Space,Tech and Sci-fi and Rom-com novels and 100% interested in programming 
 - 🌱 I’m currently learning ... My first programming language JS (started june 2022)
 - 💞️ I’m looking to collaborate on ... Wherever I can use Web Dev Skills
